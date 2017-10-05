@@ -1,0 +1,23 @@
+{
+  "name": "flashcardfun",
+  "version": "1.0.0",
+  "description": "awesome in a box",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylarpowers/Flashcard-Generator.git"
+  },
+  "author": "Skylar Powers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skylarpowers/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/skylarpowers/Flashcard-Generator#readme"
+}
